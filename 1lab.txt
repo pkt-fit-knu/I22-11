@@ -1,0 +1,59 @@
+
+CREATE TABLE Entertaintment
+(
+	id_ent               INTEGER NOT NULL,
+	name                 VARCHAR(20) NULL,
+	owner                VARCHAR(20) NULL,
+	idols                INTEGER NULL
+);
+
+ALTER TABLE Entertaintment
+ADD PRIMARY KEY (id_ent);
+
+CREATE TABLE Gpoups
+(
+	id_group             INTEGER NOT NULL,
+	members              INTEGER NULL,
+	debut                INTEGER NULL,
+	name                 VARCHAR(20) NULL
+);
+
+ALTER TABLE Gpoups
+ADD PRIMARY KEY (id_group);
+
+CREATE TABLE Idols
+(
+	idol_id              INTEGER NOT NULL,
+	id_ent               INTEGER NULL,
+	name                 VARCHAR(20) NULL
+);
+
+ALTER TABLE Idols
+ADD PRIMARY KEY (idol_id);
+
+CREATE TABLE link
+(
+	id_group             INTEGER NULL,
+	idol_id              INTEGER NULL
+);
+
+CREATE TABLE Top_of_Entartaintment
+(
+	id_ent               INTEGER NOT NULL,
+	number               INTEGER NULL
+);
+
+ALTER TABLE Top_of_Entartaintment
+ADD PRIMARY KEY (id_ent);
+
+ALTER TABLE Idols
+ADD CONSTRAINT R_6 FOREIGN KEY (id_ent) REFERENCES Entertaintment (id_ent);
+
+ALTER TABLE link
+ADD CONSTRAINT R_4 FOREIGN KEY (id_group) REFERENCES Gpoups (id_group);
+
+ALTER TABLE link
+ADD CONSTRAINT R_7 FOREIGN KEY (idol_id) REFERENCES Idols (idol_id);
+
+ALTER TABLE Top_of_Entartaintment
+ADD CONSTRAINT R_3 FOREIGN KEY (id_ent) REFERENCES Entertaintment (id_ent);
