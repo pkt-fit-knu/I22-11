@@ -1,0 +1,6 @@
+E:\Універ\Прога\IrisTry\IrisTry\bin\Debug\IrisTry.exe.config
+E:\Універ\Прога\IrisTry\IrisTry\bin\Debug\IrisTry.exe
+E:\Універ\Прога\IrisTry\IrisTry\bin\Debug\IrisTry.pdb
+E:\Універ\Прога\IrisTry\IrisTry\obj\Debug\IrisTry.csprojResolveAssemblyReference.cache
+E:\Універ\Прога\IrisTry\IrisTry\obj\Debug\IrisTry.exe
+E:\Універ\Прога\IrisTry\IrisTry\obj\Debug\IrisTry.pdb
