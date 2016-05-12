@@ -1,0 +1,61 @@
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe.config
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.pdb
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.Properties.Resources.resources
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.exe
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.pdb
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.MainForm.resources
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.ResolveComReference.cache
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.CreateFileFolderForm.resources
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindForm.resources
+C:\Users\Максим\Documents\Projects\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindSubStringForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe.config
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.ResolveComReference.cache
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.pdb
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.pdb
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csprojResolveAssemblyReference.cache
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.CreateFileFolderForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindSubStringForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.MainForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.Properties.Resources.resources
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.GenerateResource.Cache
+D:\Юлькино\Универ\II курс\Прога\Lab2. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.exe
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe.config
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.ResolveComReference.cache
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.exe
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.pdb
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.pdb
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csprojResolveAssemblyReference.cache
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.CreateFileFolderForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindSubStringForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.MainForm.resources
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.Properties.Resources.resources
+D:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.GenerateResource.Cache
+H:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe.config
+H:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Interop.IWshRuntimeLibrary.dll
+H:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.ResolveComReference.cache
+H:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.exe
+H:\Юлькино\Универ\II курс\Прога\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.pdb
+J:\я\Lab1. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe.config
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Interop.IWshRuntimeLibrary.dll
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.ResolveComReference.cache
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.exe
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.pdb
+J:\я\Lab1. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.exe
+J:\я\Lab1. File manager\Lab2. File manager\bin\Debug\Lab2.File_manager.pdb
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csprojResolveAssemblyReference.cache
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.CreateFileFolderForm.resources
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindForm.resources
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.FindSubStringForm.resources
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.MainForm.resources
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2.File_manager.Properties.Resources.resources
+J:\я\Lab1. File manager\Lab2. File manager\obj\Debug\Lab2. File manager.csproj.GenerateResource.Cache
