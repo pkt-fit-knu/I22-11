@@ -1,0 +1,41 @@
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+E:\STUDENTS\15 поток\СТ\СП\СП-1522\C #\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Dima\Рабочий стол\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Никита Жибинов\Desktop\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+C:\Users\Никита Жибинов\Desktop\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb
+C:\Users\Никита Жибинов\Desktop\Проводник\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+C:\Users\Никита Жибинов\Desktop\Проводник\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+C:\Users\Никита Жибинов\Desktop\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+C:\Users\Никита Жибинов\Desktop\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+C:\Users\Никита Жибинов\Desktop\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.csproj.GenerateResource.Cache
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.csprojResolveAssemblyReference.cache
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+D:\Юлькино\Универ\II курс\Прога\Provodnik\Проводник\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.csproj.GenerateResource.Cache
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.csprojResolveAssemblyReference.cache
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+J:\я\Проводник\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.csproj.GenerateResource.Cache
