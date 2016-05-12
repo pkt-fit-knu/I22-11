@@ -1,0 +1,19 @@
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\Dyff\Dyff\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\Dyff\Dyff\bin\Debug\Dyff.exe
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\Dyff\Dyff\bin\Debug\Dyff.pdb
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\Dyff\Dyff\obj\x86\Debug\Dyff.exe
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\Dyff\Dyff\obj\x86\Debug\Dyff.pdb
+D:\Documents and Settings\Admin\Рабочий стол\my\Dyff\Dyff\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Рабочий стол\my\Dyff\Dyff\obj\x86\Debug\Dyff.exe
+D:\Documents and Settings\Admin\Рабочий стол\my\Dyff\Dyff\bin\Debug\Dyff.exe
+D:\Documents and Settings\Admin\Рабочий стол\my\Dyff\Dyff\bin\Debug\Dyff.pdb
+D:\Documents and Settings\Admin\Рабочий стол\my\Dyff\Dyff\obj\x86\Debug\Dyff.pdb
+D:\Універ\ЧМ\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\obj\x86\Debug\Dyff.exe
+D:\Універ\ЧМ\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\obj\x86\Debug\Dyff.pdb
+D:\Універ\ЧМ\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\bin\Debug\Dyff.exe
+D:\Універ\ЧМ\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\bin\Debug\Dyff.pdb
+D:\Універ\ЧМ\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\obj\x86\Debug\Dyff.csprojResolveAssemblyReference.cache
+D:\Універ\III курс\ЧМ\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\obj\x86\Debug\Dyff.exe
+D:\Універ\III курс\ЧМ\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\obj\x86\Debug\Dyff.pdb
+J:\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\obj\x86\Debug\Dyff.exe
+J:\TK-3_Zdorovylo_Nazar_ChM\Dyff\Dyff\obj\x86\Debug\Dyff.pdb
