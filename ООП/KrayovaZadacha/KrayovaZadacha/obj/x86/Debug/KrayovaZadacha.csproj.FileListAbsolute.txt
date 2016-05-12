@@ -1,0 +1,12 @@
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\KrayovaZadacha\KrayovaZadacha\bin\Debug\KrayovaZadacha.exe
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\KrayovaZadacha\KrayovaZadacha\bin\Debug\KrayovaZadacha.pdb
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\KrayovaZadacha.exe
+D:\Documents and Settings\Admin\Рабочий стол\labs_Va\my\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\KrayovaZadacha.pdb
+D:\Documents and Settings\Admin\Рабочий стол\my\KrayovaZadacha\KrayovaZadacha\bin\Debug\KrayovaZadacha.exe
+D:\Documents and Settings\Admin\Рабочий стол\my\KrayovaZadacha\KrayovaZadacha\bin\Debug\KrayovaZadacha.pdb
+D:\Documents and Settings\Admin\Рабочий стол\my\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Рабочий стол\my\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\KrayovaZadacha.exe
+D:\Documents and Settings\Admin\Рабочий стол\my\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\KrayovaZadacha.pdb
+J:\TK-3_Zdorovylo_Nazar_ChM\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\KrayovaZadacha.exe
+J:\TK-3_Zdorovylo_Nazar_ChM\KrayovaZadacha\KrayovaZadacha\obj\x86\Debug\KrayovaZadacha.pdb
