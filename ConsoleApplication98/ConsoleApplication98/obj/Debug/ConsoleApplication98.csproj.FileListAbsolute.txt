@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\Projects\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2013\Projects\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.exe
+C:\Users\admin\documents\visual studio 2013\Projects\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.exe
+C:\Users\admin\documents\visual studio 2013\Projects\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.pdb
+C:\Users\OstMaria\Desktop\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.exe.config
+C:\Users\OstMaria\Desktop\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.exe
+C:\Users\OstMaria\Desktop\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.pdb
+C:\Users\OstMaria\Desktop\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.exe
+C:\Users\OstMaria\Desktop\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.pdb
+C:\Users\OstMaria\Desktop\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.csprojResolveAssemblyReference.cache
+E:\з роб стола\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.exe.config
+E:\з роб стола\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.exe
+E:\з роб стола\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.pdb
+E:\з роб стола\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.exe
+E:\з роб стола\ConsoleApplication98\ConsoleApplication98\bin\Debug\ConsoleApplication98.pdb
+E:\з роб стола\ConsoleApplication98\ConsoleApplication98\obj\Debug\ConsoleApplication98.csprojResolveAssemblyReference.cache
